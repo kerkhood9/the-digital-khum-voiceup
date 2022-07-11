@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <link rel="stylesheet" href="http://localhost:3001/" title="go back"></link>
+    <link rel="stylesheet" href="file:///Users/dam157/Desktop/voiceup/src/Pages/SettingPages.html" title="go back"></link>
     </div>
   );
 }
